@@ -1,2 +1,2 @@
-# -alculatorHEX
-Hex Calculator (0-9A-F
+# Hex Calculator (0-9A-F)
+
